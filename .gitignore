@@ -131,3 +131,5 @@ fastlane/test_output
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+HelloWorld.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+HelloWorld.xcodeproj/project.xcworkspace/xcshareddata/
